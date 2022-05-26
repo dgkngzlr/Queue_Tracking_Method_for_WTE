@@ -1,0 +1,4 @@
+model/yolov4.weights
+model/yolov4-tiny.weights
+media/test1.mp4
+media/test2.mp4
